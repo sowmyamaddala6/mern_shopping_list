@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://shivani:shivani@cluster0.1tuu6.mongodb.net/cluster0?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}
